@@ -1,0 +1,16 @@
+Python Enviroment Setup
+>>  pip install virtualenv
+>>  python -m venv .venvs
+
+
+.bat file execution technique
+Syntax: path\to\venv\Scripts\activate.bat
+>>  .venv\Scripts\activate.bat
+
+
+another enviroment install
+>>  pip install numpy
+
+>>  pip install -r requirements.txt   // All requirements install in python
+
+>> pip freeze > requirements.txt
