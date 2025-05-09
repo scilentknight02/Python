@@ -1,6 +1,6 @@
 Python Enviroment Setup
 >>  pip install virtualenv
->>  python -m venv .venvs
+>>  python -m venv .venv
 
 
 .bat file execution technique
@@ -14,3 +14,6 @@ another enviroment install
 >>  pip install -r requirements.txt   // All requirements install in python
 
 >> pip freeze > requirements.txt
+
+for install matplotlib package
+>> pip install matplotlib
